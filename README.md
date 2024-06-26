@@ -18,8 +18,10 @@ The following technology stack has been used in the project:
 • Redux-Saga.
 
 ! Redux in this project is presented without using additional tools like RTK, Toolkit, but it is still a workable version.
-  A more recent version is available on my github
+! A more recent version is available on my github.
 
+! I am posting this project not only to show my own capabilities of understanding and supporting legacy redux code, but also for general use.
+! If someone starts to learn redux - this work will allow you to check your own knowledge of redux basics, because the project uses the main concepts of this state manager.
 _______________________________________________________________
 
 RU | Данный проект является типом А2.
