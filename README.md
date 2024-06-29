@@ -17,6 +17,10 @@ The following technology stack has been used in the project:
 • Redux,
 • Redux-Saga.
 
+V2 + Redux-thunk.
+
+V3 + Redux-Toolkit, RTK
+
 ! Redux in this project is presented without using additional tools like RTK, Toolkit, but it is still a workable version.
 ! A more recent version is available on my github.
 
@@ -37,6 +41,10 @@ RU | Данный проект является типом А2.
 • React,
 • Redux,
 • Redux-Saga.
+
+V2 + Redux-thunk.
+
+V3 + Redux-Toolkit, RTK
 
 ! Редакс в данном проекте представлен без использования дополнительных инструментов, таких как RTK, Toolkit, но является работоспособной версией.
 ! Более свежая версия так же доступна на моем github репозитории.
