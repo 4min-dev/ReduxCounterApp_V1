@@ -1,4 +1,5 @@
-# A-2_V1_ReduxCounterApp
+<h1 align="center">A-2_V1_ReduxCounterApp</h1>
+
 [V1](https://github.com/4min-dev/A-2_V1_ReduxCounterApp) | [V2](https://github.com/4min-dev/A-2_V2_ReduxCounterApp) | [V3](https://github.com/4min-dev/A-2_V3_ReduxCounterApp) | [V4](https://github.com/4min-dev/A-2_V4_ReduxCounterApp) | [V5](https://github.com/4min-dev/A-2_V5_ReduxCounterApp)
 _______________________________________________________________
 
@@ -16,7 +17,7 @@ React,
 Redux,
 Redux-saga.
 
-Links to everything in the header
+Links to everything in the header.
 _______________________________________________________________
 
 RU | Данный проект является типом А2.
@@ -33,4 +34,6 @@ React,
 Redux,
 Redux-saga.
 
-Ссылки на все в заголовке
+Ссылки на все в заголовке.
+
+<h1 align="center">The project is in the master branch | Проект находится в ветке master</h1>
