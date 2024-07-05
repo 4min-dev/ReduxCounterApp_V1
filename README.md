@@ -1,25 +1,22 @@
-# -A2-Vite-React-TS-Redux-Redux-Saga
-[ A2, outdated ] Vite + React + TS + Redux / Redux Saga project without RTK, Toolkit.
-
+# A-2_V1_ReduxCounterApp
+(V1)[https://github.com/4min-dev/A-2_V1_ReduxCounterApp] | (V2)[https://github.com/4min-dev/A-2_V2_ReduxCounterApp] | (V3)[https://github.com/4min-dev/A-2_V3_ReduxCounterApp] | (V4)[https://github.com/4min-dev/A-2_V4_ReduxCounterApp] | (V5)[https://github.com/4min-dev/A-2_V5_ReduxCounterApp]
 _______________________________________________________________
 
 EN | This project is a type A2 project.
 
-This work is a demonstration project of my skills.
+reactCounterApp is a large A2 type work that includes 6 versions of projects.
+Each version includes improvements to the project, the final working version is V6.
 
-The following technology stack has been used in the project: 
+The following stack is present in this version of the project:
+CSS,
+HTML,
+JS,
+TS,
+React,
+Redux,
+Redux-saga.
 
-• HTML,
-• CSS,
-• JS,
-• TS,
-• React,
-• Redux,
-• Redux-Saga.
-
-V2 + Redux-thunk.
-
-V3 + Redux-Toolkit, RTK
+Links to everything in the header
 
 ! Redux in this project is presented without using additional tools like RTK, Toolkit, but it is still a workable version.
 ! A more recent version is available on my github.
@@ -30,24 +27,16 @@ _______________________________________________________________
 
 RU | Данный проект является типом А2.
 
-Проект является работой, демонстрирующей мои навыки.
+reactCounterApp - это большая работа типа A2, которая включает в себя 6 версий проектов.
+Каждая версия включает в себя улучшения проекта, финальной рабочей версией является V6.
 
-Технологический стек проекта:
+В этой версии проекта присутствует следующий стек:
+CSS,
+HTML,
+JS,
+TS,
+React,
+Redux,
+Redux-saga.
 
-• HTML,
-• CSS,
-• JS,
-• TS,
-• React,
-• Redux,
-• Redux-Saga.
-
-V2 + Redux-thunk.
-
-V3 + Redux-Toolkit, RTK
-
-! Редакс в данном проекте представлен без использования дополнительных инструментов, таких как RTK, Toolkit, но является работоспособной версией.
-! Более свежая версия так же доступна на моем github репозитории.
-
-! Выкладываю этот проект не только ради того, чтобы показать собственные возможности понимания и поддержки устаревшего кода на redux, но и для общего пользования.
-! Если вдруг кто то начинает изучать redux - данная работа позволит вам проверить собственные знания основ redux, поскольку в проекте использованы основные концепции данного стейт менеджера.
+Ссылки на все в заголовке
