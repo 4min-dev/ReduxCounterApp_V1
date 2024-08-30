@@ -1,6 +1,6 @@
 <h1 align="center">RU | Redux counter App V1</h1>
 
-[V1](https://github.com/4min-dev/A-2_V1_ReduxCounterApp) | [V2](https://github.com/4min-dev/A-2_V2_ReduxCounterApp) | [V3](https://github.com/4min-dev/A-2_V3_ReduxCounterApp) | [V4](https://github.com/4min-dev/A-2_V4_ReduxCounterApp) | [V5](https://github.com/4min-dev/A-2_V5_ReduxCounterApp)
+[V1](https://github.com/4min-dev/ReduxCounterApp_V1) | [V2](https://github.com/4min-dev/ReduxCounterApp_V2) | [V3](https://github.com/4min-dev/ReduxCounterApp_V3) | [V4](https://github.com/4min-dev/ReduxCounterApp_V4) | [V5](https://github.com/4min-dev/ReduxCounterApp_V5)
 
 <h2 align="center">Технологический стек, используемый в проекте:</h2>
 
@@ -15,8 +15,6 @@
 <hr/>
 
 <h1 align="center">EN | Redux counter App V1</h1>
-
-[V1](https://github.com/4min-dev/A-2_V1_ReduxCounterApp) | [V2](https://github.com/4min-dev/A-2_V2_ReduxCounterApp) | [V3](https://github.com/4min-dev/A-2_V3_ReduxCounterApp) | [V4](https://github.com/4min-dev/A-2_V4_ReduxCounterApp) | [V5](https://github.com/4min-dev/A-2_V5_ReduxCounterApp)
 
 <h2 align="center">Technology stack:</h2>
 
